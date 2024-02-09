@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**LedezmaG/LedezmaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Israel Ledezma! 👋
+## 👀 About Me
+- I'm a software engineer focused on web technologies. I love Programming, movies and series.
+- I have excellent skills with JavaScript as my primary programming language, TypeScript, React, Express and Nest.js.
+- I'm a self-taught person, constantly improving my current skills and trying to learn new technologies.
+## 💻 Tech Stack
+- 🔧 Javascript
+- 🔧 Typescript
+- 🔧 React
+- 🔧 Next
+- 🔧 Express
+- 🔧 Graphql
+- 🔧 Nest
+- 🔧 Node
+- 🔧 Css
+- 🔧 HTML
+- 🔧 Sass
+- 🔧 Tailwindcss
+- 🔧 Bootstrap
+- 
+## 📊 GitHub Stats:
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Israldz)](https://github.com/anuraghazra/github-readme-stats)
