@@ -50,9 +50,3 @@
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&layout=compact&theme=dark&hide_border=false)<br/>
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=raahLdz&theme=dark&hide_border=false)<br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raahLdz&theme=dark&hide_border=false)<br/>
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raahLdz&theme=dark&hide_border=false)
-
-
-
-
