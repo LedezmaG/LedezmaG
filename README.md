@@ -1,10 +1,10 @@
 # Hi there, I'm Israel Ledezma! 👋
 - [LinkedIn](https://www.linkedin.com/in/israel-ledezma)
-## 👀 About Me
+### 👀 About Me
 - I am a web enthusiast with a strong background in software engineering. My passion lies in programming, and I enjoy exploring the worlds of movies and series.
 - Proficient in JavaScript, TypeScript, React, Express, and Nest.js, I bring solid skills to the table as my primary programming language is JavaScript. These technologies empower me to create dynamic and robust web applications.
 - A self-taught individual, I am committed to continuous improvement. I actively enhance my existing skills and eagerly delve into the realm of new technologies, always seeking ways to broaden my knowledge base.
-## 💻 Stack
+### 💻 Stack
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -47,8 +47,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats:
-<br/>
+### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&layout=compact&theme=dark&hide_border=false)<br/>
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=raahLdz&theme=dark&hide_border=false)<br/>
 
