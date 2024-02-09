@@ -1,4 +1,5 @@
 # Hi there, I'm Israel Ledezma! 👋
+- [LinkedIn](https://www.linkedin.com/in/israel-ledezma)
 ## 👀 About Me
 - I am a web enthusiast with a strong background in software engineering. My passion lies in programming, and I enjoy exploring the worlds of movies and series.
 - Proficient in JavaScript, TypeScript, React, Express, and Nest.js, I bring solid skills to the table as my primary programming language is JavaScript. These technologies empower me to create dynamic and robust web applications.
@@ -47,7 +48,9 @@
 </p>
 - 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raahLdz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raahLdz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&layout=compact&theme=dark&hide_border=false)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=raahLdz&theme=dark&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raahLdz&theme=dark&hide_border=false)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raahLdz&theme=dark&hide_border=false)
 
