@@ -1,9 +1,9 @@
 # Hi there, I'm Israel Ledezma! 👋
 ## 👀 About Me
-- I'm a software engineer focused on web technologies. I love Programming, movies and series.
-- I have excellent skills with JavaScript as my primary programming language, TypeScript, React, Express and Nest.js.
-- I'm a self-taught person, constantly improving my current skills and trying to learn new technologies.
-## 💻 Tech Stack
+- I am a web enthusiast with a strong background in software engineering. My passion lies in programming, and I enjoy exploring the worlds of movies and series.
+- Proficient in JavaScript, TypeScript, React, Express, and Nest.js, I bring solid skills to the table as my primary programming language is JavaScript. These technologies empower me to create dynamic and robust web applications.
+- A self-taught individual, I am committed to continuous improvement. I actively enhance my existing skills and eagerly delve into the realm of new technologies, always seeking ways to broaden my knowledge base.
+## 💻 Stack
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -47,7 +47,7 @@
 </p>
 - 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raahLdz&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raahLdz&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=raahLdz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raahLdz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
