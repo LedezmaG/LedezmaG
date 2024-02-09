@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-- 
+
 ## 📊 GitHub Stats:
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raahLdz&layout=compact&theme=dark&hide_border=false)<br/>
