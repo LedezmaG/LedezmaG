@@ -19,4 +19,4 @@
 - 🔧 Bootstrap
 - 
 ## 📊 GitHub Stats:
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Israldz)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LedezmaG)](https://github.com/anuraghazra/github-readme-stats)
